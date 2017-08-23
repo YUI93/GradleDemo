@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Xmx1024m" />
+    <bytecodeTargetLevel>
+      <module name="GradleDemo2_main" target="1.5" />
+      <module name="GradleDemo2_test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
